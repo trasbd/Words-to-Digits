@@ -1,0 +1,6 @@
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\bin\Debug\Words to Digits.exe.config
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\bin\Debug\Words to Digits.exe
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\bin\Debug\Words to Digits.pdb
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\obj\Debug\Words to Digits.csprojResolveAssemblyReference.cache
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\obj\Debug\Words to Digits.exe
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Words to Digits\Words to Digits\obj\Debug\Words to Digits.pdb
